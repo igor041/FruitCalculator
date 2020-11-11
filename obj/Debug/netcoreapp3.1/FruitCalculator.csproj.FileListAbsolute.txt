@@ -1,0 +1,13 @@
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\obj\Debug\netcoreapp3.1\FruitCalculator.csprojAssemblyReference.cache
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\obj\Debug\netcoreapp3.1\FruitCalculator.AssemblyInfoInputs.cache
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\obj\Debug\netcoreapp3.1\FruitCalculator.AssemblyInfo.cs
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\obj\Debug\netcoreapp3.1\FruitCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\bin\Debug\netcoreapp3.1\FruitCalculator.exe
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\bin\Debug\netcoreapp3.1\FruitCalculator.deps.json
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\bin\Debug\netcoreapp3.1\FruitCalculator.runtimeconfig.json
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\bin\Debug\netcoreapp3.1\FruitCalculator.runtimeconfig.dev.json
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\bin\Debug\netcoreapp3.1\FruitCalculator.dll
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\bin\Debug\netcoreapp3.1\FruitCalculator.pdb
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\obj\Debug\netcoreapp3.1\FruitCalculator.dll
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\obj\Debug\netcoreapp3.1\FruitCalculator.pdb
+C:\Users\Toe\projects\source\git\interviews\FruitCalculator\FruitCalculator\obj\Debug\netcoreapp3.1\FruitCalculator.genruntimeconfig.cache
